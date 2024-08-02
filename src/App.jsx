@@ -51,7 +51,7 @@ function App() {
               onClick={() => setcolor("black", blackImage)}>Black</button>
 
             <button className='bg-blue-400 text-black font-bold rounded-xl px-2 py-1'
-              onClick={() => setcolor("#87CEEB", skyImageImage)}>Black</button>
+              onClick={() => setcolor("#87CEEB", skyImageImage)}>SkyBlue</button>
           
           </div>
 
